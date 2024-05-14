@@ -7,7 +7,9 @@
     "example": "examples"
   },
   "scripts": {
-    "test": "jest"
+    "test": "jest",  
+    "test-kmom01": "jest  --testPathPattern=me/kmom01",
+    "test-kmom02": "jest  --testPathPattern=me/kmom02"
   },
   "keywords": [],
   "author": "",
