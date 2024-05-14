@@ -104,8 +104,7 @@ Gör sedan uppgiften [Skapa en personlig webbplats](assignments/personal-webapge
 $ git status
 $ git add .
 $ git commit -m "Added all local changes"
-git push --set-upstream origin kmom01
-$ git push
+$ git push --set-upstream origin kmom01
 ```
 
 Gå nu till ditt repo på GitHub och skapa en "Pull Request".
