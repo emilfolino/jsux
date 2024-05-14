@@ -4,8 +4,8 @@
  * @param  {[string]} name Name of the person we want to greet.
  * @return {[string]}     A greeting containing 'Hello [name]'.
  */
-function greeting () {
-    return;
+function greeting (name) {
+    return `Hello ${name}`;
 }
 
 module.exports = greeting;
